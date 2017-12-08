@@ -1,4 +1,4 @@
-FEATURES TO ADD:
+FEATURES TO ADD: /r/n
 *many skin choices
 *special bubble changing air resistance
 *remove player when touch
